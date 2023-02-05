@@ -9,9 +9,9 @@ This workshop aims at summing up the current state of algorithmic-audits through
 ## First confirmed papers to be presented
  - A zest of lime: towards architecture-independent model distances, *Hengrui Jia, Hongyu Chen, Jonas Guan, Ali Shahin Shamsabadi, Nicolas Papernot*, ICLR 2022.
  - Active fairness auditing, *Tom Yan, Chicheng Zhang*, ICML 2022.
- - Remote Explainability faces the bouncer problem, *Erwan Le Merrer, Gilles Tredan*, Nature Mach Int 2020. **TBC**
+ - Remote Explainability faces the bouncer problem, *Erwan Le Merrer, Gilles Tredan*, Nature Mach Int 2020. *TBC*
  - Tubes & Bubbles - Topological confinement of YouTube recommendations, *Camille Roth, Antoine Mazières, Telmo Menezes*, PLOS ONE 2020. 
- - Confidential-PROFITT: Confidential PROof of FaIr Training of Trees, under review.
+ - Confidential-PROFITT: Confidential PROof of FaIr Training of Trees, *Ali Shahin Shamsabadi, Sierra Calanda Wyllie, Nicholas Franzese, Natalie Dullerud, Sébastien Gambs, Nicolas Papernot, Xiao Wang, Adrian Weller*, ICLR 2023.
  - TBA
 
 ## Organization
