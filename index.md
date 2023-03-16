@@ -24,6 +24,12 @@ This workshop aims at summing up the current state of algorithmic-audits through
 
 5:00     : wrap-up and open discussion
 
+## Registration
+
+Registration is free but mandatory, you will receive an email with the zoom link a few days before the event.
+
+[Registration page](https://framaforms.org/registration-for-waaa-may-23rd-1678973540)
+
 ## Organization
 * Erwan Le Merrer, Inria
 * Gilles Tredan, CNRS
