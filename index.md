@@ -9,12 +9,19 @@ This workshop aims at summing up the current state of algorithmic-audits through
 ## Program
 
 1:45-2pm : Welcome
-2:00-2:30: Tubes & Bubbles - Topological confinement of YouTube recom (PLOS ONE 2020)
-2:30-3:00: You can't have your API and trust it too: reliable audits with a little help
-3:00-3:30: Confidential-PROFITT: Confidential PROof of FaIr Training of Trees (ICLR 2023)
-3:30-4:00: Auditing for discrimination in ad delivery, with and without platform support (CSCW 2023)
-4:00-4:30: A zest of lime: towards architecture-independent model distances (ICLR 2022)
-4:30-5:00: Active fairness auditing (ICML 2022)
+
+2:00-2:30: **Tubes & Bubbles - Topological confinement of YouTube recom** (PLOS ONE 2020)
+
+2:30-3:00: **You can't have your API and trust it too: reliable audits with a little help**
+
+3:00-3:30: **Confidential-PROFITT: Confidential PROof of FaIr Training of Trees** (ICLR 2023)
+
+3:30-4:00: **Auditing for discrimination in ad delivery, with and without platform support** (CSCW 2023)
+
+4:00-4:30: **A zest of lime: towards architecture-independent model distances** (ICLR 2022)
+
+4:30-5:00: **Active fairness auditing** (ICML 2022)
+
 5:00     : wrap-up and open discussion
 
 ## Organization
