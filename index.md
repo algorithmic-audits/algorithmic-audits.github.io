@@ -6,6 +6,8 @@
 Nowadays, many crucial algorithms (recommendation, scoring, ranking and classification) are operated at third party providers, without users or institutions having any insights on how they operate on their data. Such a black-box setup challenges scientists to show what is [feasible in terms of audits](https://github.com/erwanlemerrer/awesome-audit-algorithms), both on theoretical and efficiency-oriented aspects.\
 This workshop aims at summing up the current state of algorithmic-audits through recent scientific advances.
 
+*The workshop will take place online (Zoom), please register to attend (see below).*
+
 ## Program
 
 1:45-2pm : Welcome
@@ -26,12 +28,10 @@ This workshop aims at summing up the current state of algorithmic-audits through
 
 ## Registration
 
-Registration is free but mandatory, you will receive an email with the zoom link a few days before the event.
-
-[Registration page](https://framaforms.org/registration-for-waaa-may-23rd-1678973540)
+Registration is free but mandatory here: [*registration page*](https://framaforms.org/registration-for-waaa-may-23rd-1678973540). You will then receive an email with the zoom link a few days before the event.
 
 ## Organization
-* Erwan Le Merrer, Inria
-* Gilles Tredan, CNRS
+* Erwan Le Merrer, Inria, France
+* Gilles Tredan, CNRS, France
 
 Contact: waaa@gozmail.net
