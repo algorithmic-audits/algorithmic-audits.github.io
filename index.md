@@ -12,7 +12,7 @@ This workshop aims at summing up the current state of algorithmic-audits through
 
 1:45-2pm : Welcome
 
-2:00-2:30: **Tubes & Bubbles - Topological confinement of YouTube recom** (PLOS ONE 2020)
+2:00-2:30: **Tubes & Bubbles - Topological confinement of YouTube recommendations** (PLOS ONE 2020)
 
 2:30-3:00: **You can't have your API and trust it too: reliable audits with a little help**
 
