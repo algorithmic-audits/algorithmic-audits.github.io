@@ -12,17 +12,17 @@ This workshop aims at summing up the current state of algorithmic-audits through
 
 14:45-15:00(CET)/08:45-09:00(EST): Welcome
 
-15:00-15:30(CET)/09:00-09:30(EST): **Tubes & Bubbles - Topological confinement of YouTube recommendations** (PLOS ONE 2020)
+15:00-15:30(CET)/09:00-09:30(EST): [**Tubes & Bubbles - Topological confinement of YouTube recommendations**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231703) (PLOS ONE 2020)
 
-15:30-16:00(CET)/09:30-10:00(EST): **You can't have your API and trust it too: reliable audits with a little help**
+15:30-16:00(CET)/09:30-10:00(EST): [**You can't have your API and trust it too: reliable audits with a little help**]() (arXiv 2023)
 
-16:00-16:30(CET)/10:00-10:30(EST): **Confidential-PROFITT: Confidential PROof of FaIr Training of Trees** (ICLR 2023)
+16:00-16:30(CET)/10:00-10:30(EST): [**Confidential-PROFITT: Confidential PROof of FaIr Training of Trees**](https://openreview.net/forum?id=iIfDQVyuFD) (ICLR 2023)
 
-16:30-17:00(CET)/10:30-11:00(EST): **Auditing for discrimination in ad delivery, with and without platform support** (CSCW 2023)
+16:30-17:00(CET)/10:30-11:00(EST): [**Auditing for discrimination in ad delivery, with and without platform support**](https://dl.acm.org/doi/abs/10.1145/3579610) (CSCW 2023)
 
-17:00-17:30(CET)/11:00-11:30(EST): **A zest of lime: towards architecture-independent model distances** (ICLR 2022)
+17:00-17:30(CET)/11:00-11:30(EST): [**A zest of lime: towards architecture-independent model distances**](https://openreview.net/forum?id=OUz_9TiTv9j) (ICLR 2022)
 
-17:30-18:00(CET)/11:30-12:00(EST): **Active fairness auditing** (ICML 2022)
+17:30-18:00(CET)/11:30-12:00(EST): [**Active fairness auditing**](https://proceedings.mlr.press/v162/yan22c/yan22c.pdf) (ICML 2022)
 
 18:00(CET)/12:00(EST)            : wrap-up
 
