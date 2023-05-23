@@ -12,23 +12,27 @@ This workshop aims at summing up the current state of algorithmic-audits through
 
 14:45-15:00(Paris)/08:45-09:00(New York): Welcome
 
-15:00-15:30(Paris)/09:00-09:30(New York): [**Tubes & Bubbles - Topological confinement of YouTube recommendations**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231703) (PLOS ONE 2020)
+15:00-15:30(Paris)/09:00-09:30(NY): [**Tubes & Bubbles - Topological confinement of YouTube recommendations**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231703) (PLOS ONE 2020)
 
-15:30-16:00(Paris)/09:30-10:00(New York): [**On the relevance of APIs facing fairwashed audits**]() (arXiv 2023)
+15:30-16:00(Paris)/09:30-10:00(NY): [**On the relevance of APIs facing fairwashed audits**]() (arXiv 2023)
 
-16:00-16:30(Paris)/10:00-10:30(New York): [**Confidential-PROFITT: Confidential PROof of FaIr Training of Trees**](https://openreview.net/forum?id=iIfDQVyuFD) (ICLR 2023)
+16:00-16:30(Paris)/10:00-10:30(NY): [**Confidential-PROFITT: Confidential PROof of FaIr Training of Trees**](https://openreview.net/forum?id=iIfDQVyuFD) (ICLR 2023)
 
-16:30-17:00(Paris)/10:30-11:00(New York): [**Auditing for discrimination in ad delivery, with and without platform support**](https://dl.acm.org/doi/abs/10.1145/3579610) (CSCW 2023)
+16:30-17:00(Paris)/10:30-11:00(NY): [**Auditing for discrimination in ad delivery, with and without platform support**](https://dl.acm.org/doi/abs/10.1145/3579610) (CSCW 2023)
 
-17:00-17:30(Paris)/11:00-11:30(New York): [**A zest of lime: towards architecture-independent model distances**](https://openreview.net/forum?id=OUz_9TiTv9j) (ICLR 2022)
+17:00-17:30(Paris)/11:00-11:30(NY): [**A zest of lime: towards architecture-independent model distances**](https://openreview.net/forum?id=OUz_9TiTv9j) (ICLR 2022)
 
-17:30-18:00(Paris)/11:30-12:00(New York): [**Active fairness auditing**](https://proceedings.mlr.press/v162/yan22c/yan22c.pdf) (ICML 2022)
+17:30-18:00(Paris)/11:30-12:00(NY): [**Active fairness auditing**](https://proceedings.mlr.press/v162/yan22c/yan22c.pdf) (ICML 2022)
 
-18:00(Paris)/12:00(New York)            : wrap-up
+18:00(Paris)/12:00(NY)            : wrap-up
 
-## Registration
+## Registration & Zoom link/code
 
-Registration is free but mandatory here: [*registration page*](https://framaforms.org/registration-for-waaa-may-23rd-1678973540). You will be sent an email with the zoom link.
+Registration is free but mandatory here: [*registration page*](https://framaforms.org/registration-for-waaa-may-23rd-1678973540).
+
+Zoom:
+https://univ-rennes1-fr.zoom.us/j/91061859469
+Passcode: 691055 
 
 ## Various
 
