@@ -14,7 +14,7 @@ This workshop aims at summing up the current state of algorithmic-audits through
 
 15:00-15:30(CET)/09:00-09:30(EST): [**Tubes & Bubbles - Topological confinement of YouTube recommendations**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231703) (PLOS ONE 2020)
 
-15:30-16:00(CET)/09:30-10:00(EST): [**You can't have your API and trust it too: reliable audits with a little help**]() (arXiv 2023)
+15:30-16:00(CET)/09:30-10:00(EST): [**On the relevance of APIs facing fairwashed audits**]() (arXiv 2023)
 
 16:00-16:30(CET)/10:00-10:30(EST): [**Confidential-PROFITT: Confidential PROof of FaIr Training of Trees**](https://openreview.net/forum?id=iIfDQVyuFD) (ICLR 2023)
 
@@ -28,7 +28,7 @@ This workshop aims at summing up the current state of algorithmic-audits through
 
 ## Registration
 
-Registration is free but mandatory here: [*registration page*](https://framaforms.org/registration-for-waaa-may-23rd-1678973540). You will then receive an email with the zoom link a few days before the event.
+Registration is free but mandatory here: [*registration page*](https://framaforms.org/registration-for-waaa-may-23rd-1678973540). You will be sent an email with the zoom link.
 
 ## Various
 
@@ -43,5 +43,3 @@ Timezones:
 
 * Erwan Le Merrer, Inria, France
 * Gilles Tredan, CNRS, France
-
-Contact: waaa@gozmail.net
