@@ -14,7 +14,7 @@ This workshop aims at summing up the current state of algorithmic-audits through
 
 15:00-15:30(Paris)/09:00-09:30(NY): [**Tubes & Bubbles - Topological confinement of YouTube recommendations**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231703) (PLOS ONE 2020)
 
-15:30-16:00(Paris)/09:30-10:00(NY): [**On the relevance of APIs facing fairwashed audits**]() (arXiv 2023)
+15:30-16:00(Paris)/09:30-10:00(NY): [**On the relevance of APIs facing fairwashed audits**](http://arxiv.org/abs/2305.13883) (arXiv 2023)
 
 16:00-16:30(Paris)/10:00-10:30(NY): [**Confidential-PROFITT: Confidential PROof of FaIr Training of Trees**](https://openreview.net/forum?id=iIfDQVyuFD) (ICLR 2023)
 
