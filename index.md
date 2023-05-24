@@ -26,14 +26,6 @@ This workshop aims at summing up the current state of algorithmic-audits through
 
 18:00(Paris)/12:00(NY)            : wrap-up
 
-## Registration & Zoom link/code
-
-Registration is free but mandatory here: [*registration page*](https://framaforms.org/registration-for-waaa-may-23rd-1678973540).
-
-Zoom:
-https://univ-rennes1-fr.zoom.us/j/91061859469
-Passcode: 691055 
-
 ## Various
 
 A [poster](https://github.com/algorithmic-audits/algorithmic-audits.github.io/blob/main/poster_WAAA_2023.pdf) for publicizing the event.
@@ -41,7 +33,6 @@ A [poster](https://github.com/algorithmic-audits/algorithmic-audits.github.io/bl
 Timezones:
 
 <img src="./timezones.jpeg" width="600" alt="banner" class="center">
-
 
 ## Organization
 
